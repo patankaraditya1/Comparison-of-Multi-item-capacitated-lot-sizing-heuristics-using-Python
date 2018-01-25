@@ -1,0 +1,14 @@
+1.Keep the Sample_Data folder and all three codes in the same folder.
+2.Open Command line and change the directory to the folder location
+3.To get the solution of Extended Dixon-Silver heuristic:
+For Data 1:
+	Type in the command line: python Extended_Dixon_Silver.py Data_1
+For Data 2:
+	Type in the command line: python Extended_Dixon_Silver.py Data_2
+4.To get the solution of Extended Eisenhut Heuristic:
+For Data 1:
+	Type in command line: python Extended_Eisenhut.py Data_1
+For Data 2:
+	Type in command line: python Extended_Eisenhut.py Data_2
+5.To get the animation plot for the heuristics:
+	Type in command line: Animation.py
